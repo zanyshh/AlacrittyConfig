@@ -1,0 +1,56 @@
+# Author:
+## Sanish Sangeeth
+# Date:
+## 25/8/2024
+
+
+
+import = [
+  "C:\\Users\\user\\AppData\\Roaming\\npm\\node_modules\\alacritty-themes\\themes\\Grayscale.light.toml"
+]
+live_config_reload = true
+
+[window]
+startup_mode = "windowed"
+title = "Alacritty"
+decorations_theme_variant = "none"
+decorations = "Buttonless"
+opacity = 0.9
+blur = true
+
+[scrolling]
+history = 10_000
+multiplier = 3
+
+# bell animation config
+[bell]
+ #   - Ease
+ #   - EaseOut
+ #   - EaseOutSine
+ #   - EaseOutQuad
+ #   - EaseOutCubic
+ #   - EaseOutQuart
+ #   - EaseOutQuint
+ #   - EaseOutExpo
+ #   - EaseOutCirc
+ #   - Linear
+animation = "linear"
+duration = 0
+
+# cursor config
+[cursor]
+unfocused_hollow = true
+thickness = 0.15
+
+# cursor style config
+[cursor.style]
+shape = "block"
+blinking = "On"
+
+# shell config
+[shell]
+program = "pwsh" # or give path to your desired shell
+
+# font config
+[font]
+builtin_box_drawing = true

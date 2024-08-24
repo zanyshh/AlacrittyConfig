@@ -1,2 +1,32 @@
-# alacritty-config
-my personal alacritty config on linux/windows/mac.
+## alacritty-config
+
+
+### Description
+An alacritty theme that i use on my pc in an elegant white theme
+
+### Requirements
+
+if you are on Mac/Linux use Homebrew
+
+Install Homebrew
+'''brew/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'''
+
+Install Alacritty using Homebrew
+'''Brew install Homebrew'''
+
+Copy file
+copy my files to: '~/.config/alacritty/alacritty.yml'
+
+
+
+### Shell Support
+ - Bash
+ - Cmd
+ - Elvish
+ - Fish
+ - Ion
+ - Nushell
+ - PowerShell 
+ - Tcsh
+ - Xonsh
+ - Zsh
