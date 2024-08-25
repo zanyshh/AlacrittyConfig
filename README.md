@@ -1,5 +1,5 @@
 ## alacritty-config
-
+![a;acritty-congif-image](/resources/alacritty-config.png)
 
 ### Description
 An alacritty theme that i use on my pc in an elegant white theme
@@ -9,13 +9,13 @@ An alacritty theme that i use on my pc in an elegant white theme
 if you are on Mac/Linux use Homebrew
 
 Install Homebrew
-'''brew/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'''
+''' brew/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" '''
 
 Install Alacritty using Homebrew
-'''Brew install Homebrew'''
+''' Brew install Homebrew '''
 
 Copy file
-copy my files to: '~/.config/alacritty/alacritty.yml'
+copy my files to: ' ~/.config/alacritty/alacritty.yml '
 
 
 
